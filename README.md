@@ -1,18 +1,48 @@
 ### Hello Everyone,
 
-### This is STUHELP Platfrom which consist various courses and competition for student to improve their skills and make them competitive.
+### This is STUHELP Platfrom which consist various courses and competition for student to improve their academic and soft - skills and make them competitive. 
+### we have lots of feature and functionality so make sure you visit every possible corner.
 
-### Techs-tack Used :
+### Tech-stack Used :
       Reactjs ( as a frontend ) 
       
       Firebase ( as a Database, Backend, Authentication (Login and signin) ).
       
       REST API ( Using Firebase with firestore )
+         
+     implemented search functionality using React with Elastic way.
       
-      implemented search functionality using React with Elastic way.
+     implement dashboard for teachers 
+          - when teache do login then he/she can she their dashboard ( see on below images or login on live site as s teacher ans see. )
 
 ### Live App Link :  https://stuhelp-by-tejas-and-dharmesh.vercel.app/
 ### Github Link : https://github.com/tanktejas/hackathon
+
+###Detail Decription of Functionality :
+
+1. Course's Page where data come from Backend So as yours need you can add any no of courses. Just need to provide necessary data. Student can view more detail or apply for this course.
+
+2. Search Functionality in course and compitition page implemented with elastic way.
+
+3. Compitition Page where many compitition was shown / Students can take participate in those or may view more details of it.
+
+4. when student want to view more about any course we provide page where all the details about that course is shown Again it is also Dynamic.😂😂👌
+
+5. Many Student has Dream to go foreign for their study so we have provided Foreign study Helper to those student to give basic idea.
+
+6. On Result Page Student can view their result by just entering asked info.
+
+7. We have Teacher Panel (Due to limited time Panel Backend is Pending) where teacher can view 
+   - no of student registerd on his/her course
+   - no of student participated in any compitition which was handled by his/her
+   - average result of class
+   - create/update result of student
+   - student activity on Stuhelp by time
+   - and much many more..
+   
+8. Separate Student and Teacher Login 
+  
+9. And as common About Us / COntact Us etc.. Go and visit ..
 
 # Photos:
 
@@ -39,7 +69,6 @@
  
 ![Screenshot (15)](https://user-images.githubusercontent.com/77108255/177700232-49b9334c-1de4-4c0d-8614-21b53d4aed17.png)
 ![Screenshot (16)](https://user-images.githubusercontent.com/77108255/177700248-55032d39-dbff-48d4-a555-713fc22809b5.png)
-
  
 ### `Result Page`
 ![Screenshot (20)](https://user-images.githubusercontent.com/77108255/177704612-aa13175d-168b-4463-a0db-02942ee173dc.png)
@@ -50,5 +79,9 @@
 ![Screenshot (18)](https://user-images.githubusercontent.com/77108255/177699456-94434212-efb1-475b-bc79-f839d40bb8f4.png)
 ![Screenshot (19)](https://user-images.githubusercontent.com/77108255/177699461-f5a9c825-e483-4019-b2cf-f1dcf068f6b2.png)
 
+### `Teacher Dashbord ( Black and White Theme )`
+
+![Screenshot (21)](https://user-images.githubusercontent.com/77108255/177715473-683be7f9-7473-46b8-93bb-b85cf8915b0e.png)
+![Screenshot (22)](https://user-images.githubusercontent.com/77108255/177715503-d7b1f772-dbea-475e-b28f-d405056c94a7.png)
 
 ### Developed by Tejas and Dharmesh.
